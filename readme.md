@@ -1,5 +1,9 @@
 # 勉強会資料置き場
 
+## プログラミング写経のすすめ（2024/10/17）
+発表資料
+https://speakerdeck.com/natsutan/puroguraminguxie-jing-nosusume
+
 ## ロボット模倣学習勉強会（2024/07/01)
 
 発表資料
