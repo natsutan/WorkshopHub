@@ -1,8 +1,9 @@
 # 勉強会資料置き場
 
-## WindwosでGenesisに挑戦した話
+## WindwosでGenesisに挑戦した話（2025/05/16）
 発表資料
 https://speakerdeck.com/natsutan/windowsdegenesisnitiao-zhan-sitahua
+
 [コード](https://github.com/natsutan/WorkshopHub/tree/main/genesis)
 
 ## RoboGen論文読み勉強会（2025/04/07）
