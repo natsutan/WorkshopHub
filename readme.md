@@ -1,5 +1,11 @@
 # 勉強会資料置き場
 
+## WindwosでGenesisに挑戦した話
+発表資料
+https://speakerdeck.com/natsutan/windowsdegenesisnitiao-zhan-sitahua
+[コード](https://github.com/natsutan/WorkshopHub/tree/main/genesis)
+
+
 ## プログラミング写経のすすめ（2024/10/17）
 発表資料
 https://speakerdeck.com/natsutan/puroguraminguxie-jing-nosusume
