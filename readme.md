@@ -1,5 +1,10 @@
 # 勉強会資料置き場
 
+
+## 動き検出勉強会リメイク(2025/06/06)
+発表資料
+https://speakerdeck.com/natsutan/dong-kijian-chu-mian-qiang-hui-zi-liao
+
 ## WindwosでGenesisに挑戦した話（2025/05/16）
 発表資料
 https://speakerdeck.com/natsutan/windowsdegenesisnitiao-zhan-sitahua
