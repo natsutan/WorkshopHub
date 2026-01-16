@@ -1,5 +1,12 @@
 # 勉強会資料置き場
 
+## グラフの書き方勉強会（2026/01/16）
+発表資料
+https://speakerdeck.com/natsutan/gurahunoshu-kifang-mian-qiang-hui
+
+## Googleのロボット技術紹介。RT-1からGemini Robotics-ER 1.5 まで(2025/10/9)
+発表資料
+https://speakerdeck.com/natsutan/googlenorobotutoji-shu-shao-jie-rt-1karagemini-robotics-er-1-dot-5-made
 
 ## 動き検出勉強会リメイク(2025/06/06)
 発表資料
