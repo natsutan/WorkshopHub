@@ -1,5 +1,9 @@
 # 勉強会資料置き場
 
+## 3D Gaussian Splatting勉強会（2026/09/04）
+発表資料
+https://speakerdeck.com/natsutan/3d-gaussian-splatting-benkyoukai
+
 ## AIロボット持ち込み勉強会in大阪（2026/08/20）
 LT発表資料
 https://speakerdeck.com/natsutan/hajimete-no-mohou-gakushuu-to-vla
